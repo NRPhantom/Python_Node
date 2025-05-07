@@ -16,7 +16,9 @@ V0.3     -> Still Under Testing
 
 # NEWS
 1 - you can make your custom nodes..................... (and you can sell them >:)
+
 2 - there is a basic nodes for examples:
+
 (print, variables, conditions)
 
 
